@@ -17,13 +17,14 @@
 
 ## 📋 Tentang Project
 
-**Web Ecommerce Mini** adalah aplikasi web ecommerce sederhana yang dibangun menggunakan **Laravel & ViteJS**. Project ini mencakup dua peran utama yaitu **Admin** dan **Pelanggan (Customer)**, masing-masing dengan dashboard dan fitur yang berbeda. Cocok digunakan sebagai referensi belajar atau sebagai starter project ecommerce berbasis PHP & JS.
+**Web Ecommerce Mini** adalah aplikasi web ecommerce sederhana yang dibangun menggunakan **Laravel & ViteJS** dan masih dalam tahap pengembangan, untuk sebagai dasar saya belajar membuat web dengan payment digital (Qris) untuk project nyata. Project ini mencakup dua peran utama yaitu **Admin** dan **Pelanggan (Customer)**, masing-masing dengan dashboard dan fitur yang berbeda. Cocok digunakan sebagai referensi belajar atau sebagai starter project ecommerce berbasis PHP & JS. **PROJECT INI BISA DIKEMBANGKAN DAN DIINTEGRASIKAN DENGAN FRAMEWORK ATAU TECH STACK LAIN SESUAI KEINGINAN PRIBADI**
 
 ---
 
 ## Tampilan Project
 ![Halaman Login](https://github.com/user-attachments/assets/13b9d21e-4026-4b1c-ac7d-87935a58b9c0)
 ![Halaman Admin](https://github.com/user-attachments/assets/79968183-40e0-4efb-a79c-cd2a76ad05cf)
+![Halaman Customer](https://github.com/user-attachments/assets/dd4eb566-97e6-4f4c-a18a-483c84c583a0)
 
 ---
 
@@ -131,8 +132,8 @@ Web-EcommerceMini/
 
 | Role | Email | Password |
 |---|---|---|
-| Admin | admin@example.com | password |
-| Customer | customer@example.com | password |
+| Admin | admin@gmail.com | password |
+| Customer | customer@gmail.com | password |
 
 > ⚠️ Pastikan untuk mengganti password default setelah instalasi di lingkungan produksi.
 
