@@ -142,6 +142,7 @@ Web-EcommerceMini/
 ## 📄 Lisensi
 
 Project ini dibuat untuk keperluan pembelajaran. Bebas digunakan dan dimodifikasi sesuai kebutuhan.
+By Davin Gabriel J (Davin164) 
 
 ---
 
