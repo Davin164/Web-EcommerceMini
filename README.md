@@ -23,7 +23,7 @@
 
 ## Tampilan Project
 ![Halaman Login](https://github.com/user-attachments/assets/13b9d21e-4026-4b1c-ac7d-87935a58b9c0)
-![Halaman Admin](https://github.com/user-attachments/assets/79968183-40e0-4efb-a79c-cd2a76ad05cf)
+![Halaman Admin]
 ![Halaman Customer](https://github.com/user-attachments/assets/dd4eb566-97e6-4f4c-a18a-483c84c583a0)
 
 ---
