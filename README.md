@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🛒 Web Ecommerce Mini
+# 🛒 Web Ecommerce Mini - Laravel & Vite
 
 ### Platform e-commerce sederhana berbasis Laravel dengan fitur lengkap untuk admin dan pelanggan.
 
