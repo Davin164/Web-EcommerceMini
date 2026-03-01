@@ -30,7 +30,7 @@
 
 ## ✨ Fitur Utama
 
-### 👤 Autentikasi
+### 👤 Fitur Auth
 - Register & Login untuk Admin dan Pelanggan
 - Proteksi route berdasarkan role (Admin / Customer)
 
